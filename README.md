@@ -1,7 +1,5 @@
 # Custom Polybar
 
-My personal collection. Trying to make some nice themes, and show how great [Polybar](https://github.com/polybar/polybar) is. I'll keep updating the collection, and maybe create some custom scripts so you and I can have a better experience with this thing. I also recommend you to check this [adi1090x Polybar Collection](https://github.com/adi1090x/polybar-themes), has some great themes, so if you don't like my collection, you can just check the other one. Also the reason why I'm doing this is because I want you to have more options and ideas to build your own theme.
-
 Ma collection personnelle. J'essaie de créer des thèmes sympas et de montrer à quel point [Polybar](https://github.com/polybar/polybar) est génial. Je continuerai à mettre à jour la collection et peut-être à créer des scripts personnalisés pour que nous puissions tous en profiter davantage. Je vous recommande également de consulter cette [cette Collection Polybar de adi1090x](https://github.com/adi1090x/polybar-themes), qui propose de superbes thèmes. Si ma collection ne vous plaît pas, vous pouvez jeter un œil à celle-ci.
 
 Je veux que vous ayez plus d'options et d'idées pour créer votre propre thème. Notez également que j'ai pris le repo de [Murzchnvok Polybar Collection](https://github.com/Murzchnvok/polybar-collection) afin de le personnaliser à ma manière.
